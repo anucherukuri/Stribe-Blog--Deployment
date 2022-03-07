@@ -1,1 +1,12 @@
-[{"id":"602ue1cakotyecye","name":"Daniele","surname":"Banovaz","email":"diego@strive.school","dateOfBirth":"01/01/1989","avatar":"http://localhost:3001/602ue1cakotyecye.png","createdAt":"2021-05-18T11:29:14.005Z","updatedAt":"2021-05-20T02:58:22.375Z"}]
+[
+    {
+        "id": "602ue1cakotyecye",
+        "name": "Daniele",
+        "surname": "Banovaz",
+        "email": "diego@strive.school",
+        "dateOfBirth": "01/01/1989",
+        "avatar": "http://localhost:3001/602ue1cakotyecye.png",
+        "createdAt": "2021-05-18T11:29:14.005Z",
+        "updatedAt": "2021-05-20T02:58:22.375Z"
+    }
+]
