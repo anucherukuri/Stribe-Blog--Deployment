@@ -1,2 +1,2 @@
-# Stribe-Blog-Deployment
+# Strive-Blog-Deployment
 M5-D6
